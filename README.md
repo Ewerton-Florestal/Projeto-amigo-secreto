@@ -19,12 +19,12 @@ Este é um projeto simples de sorteador de amigo secreto, onde você pode adicio
 
 1. Clone o repositório para o seu computador:
     ```bash
-    git clone https://github.com/Ewerton-Florestal/challenge-amigo-secreto_pt-main
+    git clone https://github.com/Ewerton-Florestal/Projeto-amigo-secreto
     ```
 
 2. Navegue até o diretório do projeto:
     ```bash
-    cd challenge-amigo-secreto_pt-main
+    cd Projeto-amigo-secreto
     ```
 
 3. Abra o arquivo index.html no seu navegador preferido.
